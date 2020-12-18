@@ -12,7 +12,7 @@ Optimizing a website for a client.
 This will help improve SEO and formatting of the html and CSS code of the website. Utilizing HTML5 semantic standards to make it easier to read the code and be able to troubleshoot any problems. 
 
 ### Screenshot
-![plot](.\assets\images\Website-image.JPG)
+![alt text](https://github.com/reybrac/Website_Optimization/blob/main/assets/images/Website-image.JPG?raw=true)
 
 #### Deployment
 Copy the link and paste it to your browser
